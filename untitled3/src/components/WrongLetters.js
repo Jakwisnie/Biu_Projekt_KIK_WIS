@@ -6,7 +6,7 @@ return(
     <div class = "wrong-letters-container">
         <div>
             {wrongLetters.length > 0 &&
-            <p>Wrong</p>
+            <p><h2>Złe litery</h2></p>
             }
             {wrongLetters
                 .map((letter, i) => <span key={i}>{letter}</span>)

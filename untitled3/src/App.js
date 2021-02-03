@@ -9,7 +9,25 @@ import { showNotification as show, checkWin } from './helpers/helpers';
 
 import './App.css';
 
-const words = ['application', 'programming', 'interface', 'wizard'];
+const words = ['lekkoatletyka',
+  'interpunkcja',
+  'telekomunikacja',
+  'metamorfoza',
+  'zwierzchnictwo',
+  'prześladowanie',
+  'antyterrorysta',
+  'dźwiękonaśladownictwo',
+  'antykoncepcja',
+  'kolorowanka',
+  'konstantynopolitański',
+  'lumpenproletariat',
+  'luminescencja',
+  'magnetoelektryczny',
+  'malkontenctwo',
+  'primaaprilisowy',
+  'pięćdziesięciogroszówka',
+  'anatomopatologiczny',
+  'deoksyrybonukleinowy'];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
 function App() {
