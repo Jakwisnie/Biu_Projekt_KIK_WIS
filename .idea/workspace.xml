@@ -19,12 +19,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/untitled4/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kubaw\Desktop\Nowy folder (5)\Biu_Projekt_KIK_WIS" />
       <recent name="C:\Users\kubaw\Desktop\Nowy folder (5)\Biu_Projekt_KIK_WIS\untitled4\src" />
     </key>
   </component>
@@ -38,7 +39,8 @@
       <updated>1612363484693</updated>
       <workItem from="1612363486145" duration="3467000" />
       <workItem from="1612366967523" duration="761000" />
-      <workItem from="1612367762430" duration="1395000" />
+      <workItem from="1612367762430" duration="2530000" />
+      <workItem from="1612370304838" duration="108000" />
     </task>
     <servers />
   </component>
