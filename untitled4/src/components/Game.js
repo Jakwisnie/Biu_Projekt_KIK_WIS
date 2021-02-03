@@ -56,9 +56,14 @@ export default class Game extends Component {
             )
         });
         let status;
+
         if (winner) {
             status = 'Wygrywa' + winner;
         } else {
+            if( moves.move >=9)
+            {
+                status = 'remis';
+            }
             status = 'Nastepny gracz ' + (this.state.xIsNext ? 'X' : 'O');
         }
 

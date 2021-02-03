@@ -29,6 +29,16 @@
       <recent name="C:\Users\kubaw\Desktop\Nowy folder (5)\Biu_Projekt_KIK_WIS\untitled4\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Biu_Projekt_KIK_WIS/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,7 +50,7 @@
       <workItem from="1612363486145" duration="3467000" />
       <workItem from="1612366967523" duration="761000" />
       <workItem from="1612367762430" duration="2530000" />
-      <workItem from="1612370304838" duration="108000" />
+      <workItem from="1612370304838" duration="3693000" />
     </task>
     <servers />
   </component>
