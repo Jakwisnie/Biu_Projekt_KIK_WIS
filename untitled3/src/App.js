@@ -7,7 +7,7 @@ import Popup from './components/Popup';
 import Notification from './components/Notification';
 import { showNotification as show, checkWin } from './helpers/helpers';
 
-import './App.css';
+import './App.scss';
 
 const words = ['lekkoatletyka',
   'interpunkcja',
@@ -28,7 +28,8 @@ const words = ['lekkoatletyka',
   'pięćdziesięciogroszówka',
   'anatomopatologiczny',
   'deoksyrybonukleinowy'];
-let selectedWord = words[Math.floor(Math.random() * words.length)];
+const words2 = ['abecadlo ', 'dom'];
+let selectedWord = words2[Math.floor(Math.random() * words.length)];
 
 function App() {
   const [playable, setPlayable] = useState(true);
